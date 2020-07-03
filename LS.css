@@ -1,0 +1,61 @@
+.page{
+	width: 780px;
+	margin: auto;
+	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
+	font-size: 16px;
+
+}
+.infophoto{
+	height: 250px;
+}
+
+.info{
+	float: left;
+}
+
+.photo{
+	float: right;
+}
+
+.section{
+	margin-bottom: 70px;
+	text-align: justify;
+}
+
+.sec-gauche{
+	float: left;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.sec-droite{
+	margin-left: 150px;
+	margin-top: 44px;
+}
+
+h2{
+	font-size: 28px;
+	color: #338888;
+	border-bottom: 3px solid #3388DD;
+}
+
+
+#forma-gauche p{
+	margin-bottom: 20
+}
+
+#forma-droite p{
+	margin-bottom: 21px; 
+}
+
+#compet-droite p{
+	margin-bottom: 20px;
+}
+
+#lang-droite p{
+	margin-bottom: 20px;
+}
+
+#acti-droite p{
+	margin-bottom: 20px;
+}
